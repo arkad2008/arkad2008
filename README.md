@@ -18,6 +18,17 @@
 
 ---
 
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white">
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black">
+  <img alt="A/B Testing" src="https://img.shields.io/badge/A%2FB%20Testing-0EA5E9">
+  <img alt="Cohorts" src="https://img.shields.io/badge/Cohorts-6366F1">
+  <img alt="KPIs" src="https://img.shields.io/badge/KPIs-22D3EE">
+</p>
+
+
+
 ## Featured projects
 
 | Project | Problem | Approach | Impact | Stack |
