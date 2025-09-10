@@ -12,7 +12,7 @@
 
 
 
-# Hi, I'm Duver 👋
+# Hi, I'm Duver Arredondo 👋
 
 **Data / UX Analytics** with a **GIS** background (Forest Engineer) and **20+ years** solving complex problems. I recently completed the **TripleTen Data Analytics bootcamp** and turn user & operational data into **actionable insights** that improve **journeys, KPIs, and efficiency**.
 
