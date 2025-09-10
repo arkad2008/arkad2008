@@ -1,0 +1,46 @@
+<!-- Banner inline SVG (clickable) -->
+<a href="https://www.linkedin.com/in/duver-arredondo-data/">
+<svg width="100%" height="220" viewBox="0 0 1500 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Duver Arredondo — Data/UX Analytics">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#101623"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+    <linearGradient id="mag" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FB7185"/>
+      <stop offset="1" stop-color="#F472B6"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+  </defs>
+
+  <!-- fondo -->
+  <rect width="1500" height="220" fill="url(#bg)"/>
+
+  <!-- brillos diagonales -->
+  <g opacity="0.25" filter="url(#blur)">
+    <rect x="-120" y="-120" width="320" height="600" transform="rotate(35)" fill="url(#mag)"/>
+    <rect x="1180" y="-180" width="360" height="700" transform="rotate(35)" fill="url(#cyan)"/>
+    <rect x="920" y="-160" width="280" height="660" transform="rotate(35)" fill="url(#mag)"/>
+  </g>
+
+  <!-- líneas diagonales nítidas -->
+  <g opacity="0.75">
+    <rect x="-40" y="-60" width="170" height="560" transform="rotate(35)" fill="#FB7185"/>
+    <rect x="-10" y="-40" width="170" height="560" transform="rotate(35)" fill="#60A5FA"/>
+    <rect x="1240" y="-40" width="170" height="640" transform="rotate(35)" fill="#22D3EE"/>
+  </g>
+
+  <!-- texto -->
+  <g font-family="Inter, Segoe UI, Roboto, Arial" fill="#E5E7EB">
+    <text x="80" y="110" font-size="38" font-weight="700">Duver Arredondo</text>
+    <text x="80" y="145" font-size="22" fill="#94A3B8">Data / UX Analytics · GIS background</text>
+    <text x="80" y="175" font-size="18" fill="#94A3B8">Python · SQL · Power BI · A/B Testing · Cohorts · KPIs</text>
+  </g>
+</svg>
+</a>
