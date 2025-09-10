@@ -1,3 +1,5 @@
+![Duver Arredondo — Data/UX Analytics](./banner_duver.svg)
+
 
 # Hi, I'm Duver 👋
 
