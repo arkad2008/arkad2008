@@ -1,4 +1,4 @@
-![Duver Arredondo — Data/UX Analytics](./banner_duver.svg)
+![Duver Arredondo — Data/UX Analytics](./banner_duver2.svg)
 
 
 <p>
