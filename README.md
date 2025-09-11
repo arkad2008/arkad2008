@@ -57,6 +57,35 @@
 </div>
 
 
+## 🚀 Featured Projects  
+
+- **📊 Megaline – Telecom Plan Analysis (2025)**  
+  🔹 *Problem:* Which pre-paid plans are most profitable by region?  
+  🔹 *Impact:* **+12% revenue potential**  
+  🔹 *Stack:* Python, Pandas, Matplotlib, Seaborn  
+
+- **🛒 E-commerce – A/B Testing & Growth (2025)**  
+  🔹 *Problem:* Too many ideas; need prioritization & measurement  
+  🔹 *Impact:* **+8% sales projection**  
+  🔹 *Stack:* Python, NumPy, Scipy  
+
+- **🏋️ Model Fitness – Churn & Segmentation (2025)**  
+  🔹 *Problem:* Rising churn; need early-risk signals  
+  🔹 *Impact:* **–15% churn**  
+  🔹 *Stack:* scikit-learn, Pandas, NumPy, Seaborn  
+  ---
+
+  ## 🌟 Featured Projects  
+
+| Project | Problem | Impact | Stack |
+|---------|---------|--------|-------|
+| 📊 **Megaline – Telecom Plan Analysis (2025)** | Which pre-paid plans are most profitable by region? | **+12% revenue potential** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) |
+| 🛒 **E-commerce – A/B Testing & Growth (2025)** | Too many ideas; need prioritization & measurement | **+8% sales projection** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) |
+| 🏋️ **Model Fitness – Churn & Segmentation (2025)** | Rising churn; need early-risk signals | **–15% churn** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) |
+
+
+
+
 ## Featured projects
 
 | Project | Problem | Approach | Impact | Stack |
