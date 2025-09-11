@@ -27,62 +27,73 @@
 - LinkedIn: https://www.linkedin.com/in/duver-arredondo-data/
 - Contact: duverarredondo@yahoo.com
 
+## 🌟 Featured Projects  
+
 ---
-## 📂 Featured Projects  
 
-<div align="center">
-
-### 📊 Megaline – Telecom Plan Analysis (2025)  
+### 📊 [Megaline – Telecom Plan Analysis (2025)](#)  
 **Problem:** Which pre-paid plans are most profitable by region?  
 **Approach:** Descriptive stats & visuals; *hypothesis testing*  
 **Impact:** Segmentation/plan adjustments → **+12% revenue potential**  
-**Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white)  
+**Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white)  
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)  
 
 ---
 
-### 🛒 E-commerce – A/B Testing & Growth (2025)  
+### 🛒 [E-commerce – A/B Testing & Growth (2025)](#)  
 **Problem:** Too many ideas; need prioritization & measurement  
 **Approach:** ICE/RICE, A/B experiments, t-test/chi²  
 **Impact:** Highest-ROI hypothesis → **+8% sales projection**  
-**Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
+**Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)  
 
 ---
 
-### 🏋️ Model Fitness – Churn & Segmentation (2025)  
+### 🏋️ [Model Fitness – Churn & Segmentation (2025)](#)  
 **Problem:** Rising churn; need early-risk signals  
-**Approach:** Logistic Regression & Random Forest  
+**Approach:** Logistic Regression & Random Forest; behavioral segments  
 **Impact:** Retention playbook → **up to –15% churn**  
-**Stack:** ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
+**Stack:**  
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white)  
 
-</div>
+---
 
+### 📈 [App Funnels – Conversion & Experimentation (2025)](#)  
+**Problem:** Measure *home→payment* funnel; assess a UI change  
+**Approach:** Event validation; control vs test; t/chi²  
+**Impact:** No significant lift → instrumentation fixes & next-test design  
+**Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)  
 
-## 🚀 Featured Projects  
+---
 
-- **📊 Megaline – Telecom Plan Analysis (2025)**  
-  🔹 *Problem:* Which pre-paid plans are most profitable by region?  
-  🔹 *Impact:* **+12% revenue potential**  
-  🔹 *Stack:* Python, Pandas, Matplotlib, Seaborn  
+### ☎️ [Call Center – Wait Times & KPIs (2025)](#)  
+**Problem:** Long/variable waits; abandonment  
+**Approach:** KPIs (avg/median/max wait), queue/operator ranking  
+**Impact:** Bottlenecks: workload redistribution; ops dashboard  
+**Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)  
 
-- **🛒 E-commerce – A/B Testing & Growth (2025)**  
-  🔹 *Problem:* Too many ideas; need prioritization & measurement  
-  🔹 *Impact:* **+8% sales projection**  
-  🔹 *Stack:* Python, NumPy, Scipy  
-
-- **🏋️ Model Fitness – Churn & Segmentation (2025)**  
-  🔹 *Problem:* Rising churn; need early-risk signals  
-  🔹 *Impact:* **–15% churn**  
-  🔹 *Stack:* scikit-learn, Pandas, NumPy, Seaborn  
-  ---
-
-  ## 🌟 Featured Projects  
-
-| Project | Problem | Impact | Stack |
-|---------|---------|--------|-------|
-| 📊 **Megaline – Telecom Plan Analysis (2025)** | Which pre-paid plans are most profitable by region? | **+12% revenue potential** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) |
-| 🛒 **E-commerce – A/B Testing & Growth (2025)** | Too many ideas; need prioritization & measurement | **+8% sales projection** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) |
-| 🏋️ **Model Fitness – Churn & Segmentation (2025)** | Rising churn; need early-risk signals | **–15% churn** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) |
-
+---
 
 
 
