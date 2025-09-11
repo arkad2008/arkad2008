@@ -27,6 +27,20 @@
 - LinkedIn: https://www.linkedin.com/in/duver-arredondo-data/
 - Contact: duverarredondo@yahoo.com
 
+### 📊 [Megaline – Telecom Plan Analysis (2025)](#)  
+
+**Problem:** Which pre-paid plans are most profitable by region?  
+**Approach:** Descriptive stats & visuals; *hypothesis testing*  
+**Impact:** Segmentation/plan adjustments → **+12% revenue potential**  
+
+**Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white) 
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white) 
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
+
+
 ## 🌟 Featured Projects  
 
 ---
