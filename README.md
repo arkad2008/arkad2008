@@ -27,19 +27,6 @@
 - LinkedIn: https://www.linkedin.com/in/duver-arredondo-data/
 - Contact: duverarredondo@yahoo.com
 
-### 📊 [Megaline – Telecom Plan Analysis (2025)](#)  
-
-**Problem:** Which pre-paid plans are most profitable by region?  
-**Approach:** Descriptive stats & visuals; *hypothesis testing*  
-**Impact:** Segmentation/plan adjustments → **+12% revenue potential**  
-
-**Stack:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white) 
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white) 
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
-
 
 ## 🌟 Featured Projects  
 
@@ -51,12 +38,9 @@
 **Problem:** Which pre-paid plans are most profitable by region?  
 **Approach:** Descriptive stats & visuals; *hypothesis testing*  
 **Impact:** Segmentation/plan adjustments → **+12% revenue potential**  
+
 **Stack:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white)  
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
 
 ---
 
@@ -64,11 +48,9 @@
 **Problem:** Too many ideas; need prioritization & measurement  
 **Approach:** ICE/RICE, A/B experiments, t-test/chi²  
 **Impact:** Highest-ROI hypothesis → **+8% sales projection**  
+
 **Stack:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
 
 ---
 
@@ -76,12 +58,9 @@
 **Problem:** Rising churn; need early-risk signals  
 **Approach:** Logistic Regression & Random Forest; behavioral segments  
 **Impact:** Retention playbook → **up to –15% churn**  
+
 **Stack:**  
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white)
 
 ---
 
@@ -89,11 +68,9 @@
 **Problem:** Measure *home→payment* funnel; assess a UI change  
 **Approach:** Event validation; control vs test; t/chi²  
 **Impact:** No significant lift → instrumentation fixes & next-test design  
+
 **Stack:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
 
 ---
 
@@ -101,13 +78,12 @@
 **Problem:** Long/variable waits; abandonment  
 **Approach:** KPIs (avg/median/max wait), queue/operator ranking  
 **Impact:** Bottlenecks: workload redistribution; ops dashboard  
+
 **Stack:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+
+---
+
 
 ---
 
