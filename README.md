@@ -28,6 +28,33 @@
 - Contact: duverarredondo@yahoo.com
 
 ---
+## 📂 Featured Projects  
+
+<div align="center">
+
+### 📊 Megaline – Telecom Plan Analysis (2025)  
+**Problem:** Which pre-paid plans are most profitable by region?  
+**Approach:** Descriptive stats & visuals; *hypothesis testing*  
+**Impact:** Segmentation/plan adjustments → **+12% revenue potential**  
+**Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white)  
+
+---
+
+### 🛒 E-commerce – A/B Testing & Growth (2025)  
+**Problem:** Too many ideas; need prioritization & measurement  
+**Approach:** ICE/RICE, A/B experiments, t-test/chi²  
+**Impact:** Highest-ROI hypothesis → **+8% sales projection**  
+**Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
+
+---
+
+### 🏋️ Model Fitness – Churn & Segmentation (2025)  
+**Problem:** Rising churn; need early-risk signals  
+**Approach:** Logistic Regression & Random Forest  
+**Impact:** Retention playbook → **up to –15% churn**  
+**Stack:** ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
+
+</div>
 
 
 ## Featured projects
