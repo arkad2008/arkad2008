@@ -31,6 +31,8 @@
 
 ---
 
+<div align="center">
+
 ### 📊 [Megaline – Telecom Plan Analysis (2025)](#)  
 **Problem:** Which pre-paid plans are most profitable by region?  
 **Approach:** Descriptive stats & visuals; *hypothesis testing*  
